@@ -12,6 +12,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+//http://www.truiton.com/2015/06/android-tabs-example-fragments-viewpager/
+//http://www.truiton.com/2015/12/android-activity-fragment-communication/
+
 
 public class MainActivity extends AppCompatActivity {
 
